@@ -1,0 +1,5 @@
+,name,profession,age,score,status,Age_Restriction
+0,mano,student,21,65,Pass,high
+1,jai,baby,5,87,Pass,less
+2,krish,second baby,6,54,Fail,less
+3,ram,mechanic,35,78,Pass,high
